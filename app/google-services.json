@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672796639019",
+    "firebase_url": "https://zaregocodechallengekt.firebaseio.com",
+    "project_id": "zaregocodechallengekt",
+    "storage_bucket": "zaregocodechallengekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672796639019:android:65da4fb0ba09dc92c64f6e",
+        "android_client_info": {
+          "package_name": "com.example.zaregocodechallengekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672796639019-st12h026q4htoh6hs6n5lnc467cn4fmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zaregocodechallengekt",
+            "certificate_hash": "47dfa4c9eaed5008602021742b9194e199cf9301"
+          }
+        },
+        {
+          "client_id": "672796639019-hmqqrlfkspfhd4sj2qvj1tpi8l2tv3bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFYCdJ8noiccO2D2Y1tawa1XHP9Y6gnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672796639019-hmqqrlfkspfhd4sj2qvj1tpi8l2tv3bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
